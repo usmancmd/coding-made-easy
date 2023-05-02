@@ -4,17 +4,11 @@ This repository contains my coding practice projects and works. Each project has
 
 ## Projects
 
-### Project 1
+### Alx-task_automations
 
-**Description:** This is a simple Python script that performs some basic calculations.
+**Description:** This folder contains some simple shell scripts that performs some basic task automations while doing my projects.
 
-**Skills practiced:** Python, basic arithmetic operations.
-
-### Project 2
-
-**Description:** This is a web application that displays a list of books.
-
-**Skills practiced:** HTML, CSS, JavaScript, Flask.
+**Skills practiced:** Shell script, Working with command line arguments, Getting the file extention of the argument passed.
 
 ## Getting Started
 
